@@ -32,6 +32,7 @@ var white_domains = {
     "zhaoming": 1
   },
   "cc": {
+    "lygou": 1,
     "lanhoo": 1,
     "0316": 1,
     "0738": 1,
@@ -203,6 +204,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "laoyuegou": 1,
     "teambition": 1,
     "autonavi": 1,
     "hotjar": 1,
@@ -8422,6 +8424,7 @@ var white_domains = {
     "sm": 1
   },
   "net": {
+    "teambition": 1,
     "loli": 1,
     "xiaojianjian": 1,
     "qy": 1,
