@@ -203,6 +203,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "teambition": 1,
     "autonavi": 1,
     "hotjar": 1,
     "liulishuo": 1,
