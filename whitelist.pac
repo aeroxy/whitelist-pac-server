@@ -204,6 +204,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "xiaohongshu": 1,
     "wallstreetcn": 1,
     "wallstcn": 1,
     "jianyuweb": 1,
