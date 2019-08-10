@@ -16,6 +16,7 @@ if (cluster.isWorker) {
     response.end();
   }
   let pac = fs.readFileSync('./whitelist.pac');
+  let promise;
   const whitelist = http.createServer();
   whitelist.on('request', (request, response) => {
     if (request.method !== 'GET' || request.url.indexOf('/whitelist') !== 0) {
@@ -23,11 +24,19 @@ if (cluster.isWorker) {
     }
     const querystr = request.url.split('?')[1];
     const { a } = qs.parse(querystr);
-    got('https://raw.githubusercontent.com/aeroxy/whitelist-pac-server/master/whitelist.pac').then(res => {
-      if (res.body) {
-        pac = res.body;
-      }
-    }).catch(console.warn);
+    if (!promise) {
+      promise = got('https://raw.githubusercontent.com/aeroxy/whitelist-pac-server/master/whitelist.pac', {timeout: 30000}).then(res => {
+        if (res.body) {
+          pac = res.body;
+        }
+        promise = null;
+      }).catch(e => {
+        console.warn(e);
+        promise = null;
+      });
+    } else {
+      console.log(promise);
+    }
     if (!a) {
       redirect(response);
     } else {
