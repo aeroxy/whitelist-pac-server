@@ -203,6 +203,8 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "ke": 1,
+    "ljcdn": 1,
     "lgstatic": 1,
     "guazistatic": 1,
     "guazi": 1,
