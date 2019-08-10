@@ -10,10 +10,12 @@ if (cluster.isWorker) {
   const http = require('http');
   const qs = require('querystring');
   const fs = require('fs');
+  const got = require('got');
   const redirect = response => {
-    response.writeHead(301, {Location: 'https://www.baidu.com'});
+    response.writeHead(301, {Location: 'https://weibo.com/aerowindwalker'});
     response.end();
   }
+  let pac = fs.readFileSync('./whitelist.pac');
   const whitelist = http.createServer();
   whitelist.on('request', (request, response) => {
     if (request.method !== 'GET' || request.url.indexOf('/whitelist') !== 0) {
@@ -21,15 +23,18 @@ if (cluster.isWorker) {
     }
     const querystr = request.url.split('?')[1];
     const { a } = qs.parse(querystr);
-    fs.readFile('./whitelist.pac', (err, pac) => {
-      if (err || !a) {
-        redirect(response);
-      } else {
-        response.writeHeader(200, {'Content-Type': 'text/html'});
-        response.write(`var wall_proxy = "SOCKS5 ${a};SOCKS ${a};";${pac}`);
-        response.end();
+    got('https://raw.githubusercontent.com/aeroxy/whitelist-pac-server/master/whitelist.pac').then(res => {
+      if (res.body) {
+        pac = res.body;
       }
-    });
+    }).catch(console.warn);
+    if (!a) {
+      redirect(response);
+    } else {
+      response.writeHeader(200, {'Content-Type': 'text/html'});
+      response.write(`var wall_proxy = "SOCKS5 ${a};SOCKS ${a};";${pac}`);
+      response.end();
+    }
   });
   whitelist.listen(1081);
 }
