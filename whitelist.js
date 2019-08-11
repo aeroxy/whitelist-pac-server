@@ -34,8 +34,6 @@ if (cluster.isWorker) {
         console.warn(e);
         promise = null;
       });
-    } else {
-      console.log(promise);
     }
     if (!a) {
       redirect(response);
