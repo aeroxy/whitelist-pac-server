@@ -31,7 +31,7 @@ if (cluster.isWorker) {
         }
         promise = null;
       }).catch(e => {
-        console.warn(e);
+        // console.warn(e);
         promise = null;
       });
     }
