@@ -204,6 +204,9 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "comingchina": 1,
+    "magvision": 1,
+    "sjtupm": 1,
     "licdn": 1,
     "xiaohongshu": 1,
     "wallstreetcn": 1,
@@ -8434,6 +8437,7 @@ var white_domains = {
     "sm": 1
   },
   "net": {
+    "unioncyber": 1,
     "teambition": 1,
     "loli": 1,
     "xiaojianjian": 1,
