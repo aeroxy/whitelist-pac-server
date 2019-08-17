@@ -3,6 +3,9 @@ var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
 
 var white_domains = {
+  "ai": {
+    "geili": 1
+  },
   "am": {
     "126": 1,
     "51": 1
@@ -206,6 +209,7 @@ var white_domains = {
   "com": {
     "ifanr": 1,
     "ifanrusercontent": 1,
+    "qiniup": 1,
     "comingchina": 1,
     "magvision": 1,
     "sjtupm": 1,
