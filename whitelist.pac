@@ -204,6 +204,8 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "ifanr": 1,
+    "ifanrusercontent": 1,
     "comingchina": 1,
     "magvision": 1,
     "sjtupm": 1,
