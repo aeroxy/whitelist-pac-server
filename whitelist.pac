@@ -207,6 +207,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "7moor": 1,
     "ifanr": 1,
     "ifanrusercontent": 1,
     "qiniup": 1,
