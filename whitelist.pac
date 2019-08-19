@@ -3102,6 +3102,7 @@ var white_domains = {
     "dospy": 1,
     "dostor": 1,
     "douban": 1,
+    "doubanio": 1,
     "douguo": 1,
     "douluodalu123": 1,
     "douxie": 1,
