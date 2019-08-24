@@ -207,6 +207,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "qihucdn": 1,
     "smtcdns": 1,
     "7moor": 1,
     "ifanr": 1,
@@ -8446,6 +8447,7 @@ var white_domains = {
     "sm": 1
   },
   "net": {
+    "wzsky": 1,
     "unioncyber": 1,
     "teambition": 1,
     "loli": 1,
