@@ -207,6 +207,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "yequanw": 1,
     "yinxiang": 1,
     "evernote": 1,
     "qihucdn": 1,
