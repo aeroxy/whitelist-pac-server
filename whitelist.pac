@@ -8377,6 +8377,9 @@ var white_domains = {
   "de": {
     "china-botschaft": 1
   },
+  "design": {
+    "ant": 1,
+  },
   "edu": {
     "snai": 1,
     "sxrtvu": 1
