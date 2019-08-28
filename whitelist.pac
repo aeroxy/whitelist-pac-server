@@ -207,6 +207,9 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "easemob": 1,
+    "yuxiaor": 1,
+    "yudoodoo": 1,
     "dataoke": 1,
     "ppa7": 1,
     "yunaq": 1,
