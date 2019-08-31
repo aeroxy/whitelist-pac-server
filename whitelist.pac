@@ -4,6 +4,7 @@ var ip_proxy = "DIRECT;";
 
 var white_domains = {
   "ai": {
+    "vdo": 1,
     "geili": 1
   },
   "am": {
@@ -207,6 +208,9 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "tv002": 1,
+    "ctfile": 1,
+    "pipipan": 1,
     "easemob": 1,
     "yuxiaor": 1,
     "yudoodoo": 1,
@@ -8415,6 +8419,7 @@ var white_domains = {
     "xitu": 1
   },
   "info": {
+    "xclient": 1,
     "gmold": 1,
     "iyaya": 1,
     "lztech": 1,
