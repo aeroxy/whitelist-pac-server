@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "163yun": 1,
     "kaola": 1,
     "poizon": 1,
     "wangsu": 1,
