@@ -4272,6 +4272,7 @@ var white_domains = {
     "huowan": 1,
     "huoxue": 1,
     "hupu": 1,
+    "hupucdn": 1,
     "hushi114": 1,
     "huway": 1,
     "huxiu": 1,
