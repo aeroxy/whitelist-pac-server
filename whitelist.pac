@@ -208,6 +208,8 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "scroll": 1,
+    "vox-cdn": 1,
     "squirrelai": 1,
     "squarespace-cdn": 1,
     "squarespace": 1,
@@ -8424,6 +8426,7 @@ var white_domains = {
     "yixin": 1
   },
   "io": {
+    "concert": 1,
     "xitu": 1
   },
   "info": {
