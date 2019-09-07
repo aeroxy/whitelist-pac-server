@@ -208,6 +208,9 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "squirrelai": 1,
+    "squarespace-cdn": 1,
+    "squarespace": 1,
     "163yun": 1,
     "kaola": 1,
     "poizon": 1,
