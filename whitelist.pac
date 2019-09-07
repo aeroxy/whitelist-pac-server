@@ -208,6 +208,8 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "hc-cdn": 1,
+    "huaweicloud": 1,
     "tancdn": 1,
     "tantanapp": 1,
     "scroll": 1,
