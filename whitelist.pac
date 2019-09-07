@@ -208,6 +208,8 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "tancdn": 1,
+    "tantanapp": 1,
     "scroll": 1,
     "vox-cdn": 1,
     "squirrelai": 1,
