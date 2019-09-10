@@ -208,6 +208,8 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "guangzhou-weimob.com": 1,
+    "chengdu-weimob.com": 1,
     "hc-cdn": 1,
     "huaweicloud": 1,
     "tancdn": 1,
