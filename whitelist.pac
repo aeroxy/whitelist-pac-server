@@ -209,6 +209,21 @@ var white_domains = {
   },
   "com": {
     "weibocdn": 1,
+    "guangzhou-weimob.com": 1,
+    "chengdu-weimob.com": 1,
+    "hc-cdn": 1,
+    "huaweicloud": 1,
+    "tancdn": 1,
+    "tantanapp": 1,
+    "scroll": 1,
+    "vox-cdn": 1,
+    "squirrelai": 1,
+    "squarespace-cdn": 1,
+    "squarespace": 1,
+    "163yun": 1,
+    "kaola": 1,
+    "poizon": 1,
+    "wangsu": 1,
     "tv002": 1,
     "ctfile": 1,
     "pipipan": 1,
@@ -4270,6 +4285,7 @@ var white_domains = {
     "huowan": 1,
     "huoxue": 1,
     "hupu": 1,
+    "hupucdn": 1,
     "hushi114": 1,
     "huway": 1,
     "huxiu": 1,
@@ -8417,6 +8433,7 @@ var white_domains = {
     "yixin": 1
   },
   "io": {
+    "concert": 1,
     "xitu": 1
   },
   "info": {
