@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "weibocdn": 1,
     "tv002": 1,
     "ctfile": 1,
     "pipipan": 1,
