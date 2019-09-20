@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "chrome666": 1,
     "alibabacloud": 1,
     "sobot": 1,
     "smartshanghai": 1,
