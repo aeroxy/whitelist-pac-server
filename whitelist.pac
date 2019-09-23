@@ -8488,6 +8488,7 @@ var white_domains = {
     "sm": 1
   },
   "net": {
+    "962222": 1,
     "wzsky": 1,
     "unioncyber": 1,
     "teambition": 1,
