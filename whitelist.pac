@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "geetest": 1,
     "yiclear": 1,
     "chrome666": 1,
     "alibabacloud": 1,
@@ -8488,6 +8489,7 @@ var white_domains = {
     "sm": 1
   },
   "net": {
+    "excelhome": 1,
     "962222": 1,
     "wzsky": 1,
     "unioncyber": 1,
