@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "jianshu": 1,
     "geetest": 1,
     "yiclear": 1,
     "chrome666": 1,
@@ -8439,6 +8440,7 @@ var white_domains = {
     "yixin": 1
   },
   "io": {
+    "jianshu": 1,
     "concert": 1,
     "xitu": 1
   },
