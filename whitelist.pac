@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "ip-cdn": 1,
     "jianshu": 1,
     "geetest": 1,
     "yiclear": 1,
