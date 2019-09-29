@@ -8492,6 +8492,7 @@ var white_domains = {
     "sm": 1
   },
   "net": {
+    "tencent-cloud": 1,
     "excelhome": 1,
     "962222": 1,
     "wzsky": 1,
