@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "kunlunno": 1,
     "processon": 1,
     "ksord": 1,
     "ksosoft": 1,
