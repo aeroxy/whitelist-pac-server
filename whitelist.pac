@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "processon": 1,
     "ksord": 1,
     "ksosoft": 1,
     "ip-cdn": 1,
@@ -8494,6 +8495,7 @@ var white_domains = {
     "sm": 1
   },
   "net": {
+    "zhugeapi": 1,
     "tencent-cloud": 1,
     "excelhome": 1,
     "962222": 1,
