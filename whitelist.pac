@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "400gb": 1,
     "waitsun": 1,
     "qiniudns": 1,
     "kunlunno": 1,
@@ -9789,7 +9790,8 @@ var white_domains = {
     "taiwandao": 1
   },
   "us": {
-    "pangu": 1
+    "pangu": 1,
+    "sn9": 1
   },
   "ws": {
     "0798": 1
