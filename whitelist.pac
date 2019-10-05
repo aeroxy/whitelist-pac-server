@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "lijiaocn": 1,
     "sopan123": 1,
     "400gb": 1,
     "waitsun": 1,
