@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "wxblockchain": 1,
     "dbdyxz": 1,
     "xiepp": 1,
     "lijiaocn": 1,
