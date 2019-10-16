@@ -6159,6 +6159,7 @@ var white_domains = {
     "qy6": 1,
     "qycn": 1,
     "qyer": 1,
+    "qyerstatic": 1,
     "qyjpzx": 1,
     "qymgc": 1,
     "qyzyw": 1,
