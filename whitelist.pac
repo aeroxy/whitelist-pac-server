@@ -209,6 +209,7 @@ var white_domains = {
   },
   "com": {
     "intenginetech": 1,
+    "monmiken": 1,
     "shmetro": 1,
     "thetravelovers": 1,
     "le5le": 1,
@@ -6159,6 +6160,7 @@ var white_domains = {
     "qy6": 1,
     "qycn": 1,
     "qyer": 1,
+    "qyerstatic": 1,
     "qyjpzx": 1,
     "qymgc": 1,
     "qyzyw": 1,
