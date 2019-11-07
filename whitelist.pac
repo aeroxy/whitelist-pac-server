@@ -210,6 +210,12 @@ var white_domains = {
   "com": {
     "yangkeduo": 1,
     "pinduoduo": 1,
+    "xitie": 1,
+    "zuyushop": 1,
+    "manmanbuy": 1,
+    "lsjgcx": 1,
+    "meiqia": 1,
+    "meiqiapaas": 1,
     "h2os": 1,
     "intenginetech": 1,
     "monmiken": 1,
