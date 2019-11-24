@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "magi": 1,
     "incopat": 1,
     "weimobdev": 1,
     "kuniao": 1,
