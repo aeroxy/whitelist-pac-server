@@ -208,6 +208,8 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "studycoder": 1,
+    "lanyus": 1,
     "imgse": 1,
     "peak-labs": 1,
     "magi": 1,
@@ -8476,6 +8478,7 @@ var white_domains = {
     "yixin": 1
   },
   "io": {
+    "gitee": 1,
     "jianshu": 1,
     "concert": 1,
     "xitu": 1
@@ -9749,6 +9752,9 @@ var white_domains = {
     "zycq": 1,
     "zyxuan": 1,
     "zzbm": 1
+  },
+  "ren": {
+    "woshidahao": 1
   },
   "sg": {
     "iedu": 1
