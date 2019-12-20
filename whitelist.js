@@ -2,7 +2,7 @@ const cluster = require('cluster');
 
 if (cluster.isMaster) {
   cluster.fork();
-  cluster.on('exit', function(worker, code, signal) {
+  cluster.on('exit', (worker, code, signal) => { // eslint-disable-line
     cluster.fork();
   });
 }
@@ -25,12 +25,15 @@ if (cluster.isWorker) {
     const querystr = request.url.split('?')[1];
     const { a } = qs.parse(querystr);
     if (!promise) {
-      promise = got('https://raw.githubusercontent.com/aeroxy/whitelist-pac-server/master/whitelist.pac', {timeout: 30000}).then(res => {
+      promise = got(
+        'https://raw.githubusercontent.com/aeroxy/whitelist-pac-server/master/whitelist.pac',
+        {timeout: 30000}
+      ).then(res => {
         if (res.body) {
           pac = res.body;
         }
         promise = null;
-      }).catch(e => {
+      }).catch(e => { // eslint-disable-line
         // console.warn(e);
         promise = null;
       });
