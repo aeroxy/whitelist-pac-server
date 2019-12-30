@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "livechatinc": 1,
     "qmyouli": 1,
     "studycoder": 1,
     "lanyus": 1,
@@ -8479,6 +8480,7 @@ var white_domains = {
     "yixin": 1
   },
   "io": {
+    "ofcourse": 1,
     "gitee": 1,
     "jianshu": 1,
     "concert": 1,
@@ -8531,6 +8533,7 @@ var white_domains = {
     "sm": 1
   },
   "net": {
+    "qiqiuyun": 1,
     "zhugeapi": 1,
     "tencent-cloud": 1,
     "excelhome": 1,
