@@ -8533,6 +8533,7 @@ var white_domains = {
     "sm": 1
   },
   "net": {
+    "88iot": 1,
     "qiqiuyun": 1,
     "zhugeapi": 1,
     "tencent-cloud": 1,
