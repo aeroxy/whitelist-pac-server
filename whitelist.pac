@@ -209,6 +209,7 @@ var white_domains = {
   },
   "com": {
     "hainanairlines": 1,
+    "itbulu": 1,
     "livechatinc": 1,
     "qmyouli": 1,
     "studycoder": 1,
@@ -8534,6 +8535,7 @@ var white_domains = {
     "sm": 1
   },
   "net": {
+    "88iot": 1,
     "qiqiuyun": 1,
     "zhugeapi": 1,
     "tencent-cloud": 1,
