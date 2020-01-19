@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "tianxun": 1,
     "hainanairlines": 1,
     "itbulu": 1,
     "livechatinc": 1,
