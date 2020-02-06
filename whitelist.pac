@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": true
   },
   "com": {
+    "tupu360": true,
     "tianxun": true,
     "hainanairlines": true,
     "itbulu": true,
