@@ -8461,6 +8461,7 @@ var white_domains = {
     "sxrtvu": true
   },
   "fm": {
+    "qingting": true,
     "douban": true,
     "jing": true,
     "lvxing": true
