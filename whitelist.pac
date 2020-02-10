@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": true
   },
   "com": {
+    "airwallex": true,
     "tupu360": true,
     "tianxun": true,
     "hainanairlines": true,
@@ -8537,6 +8538,7 @@ var white_domains = {
     "sm": true
   },
   "net": {
+    "ctfassets": true,
     "ourplay": true,
     "88iot": true,
     "qiqiuyun": true,
