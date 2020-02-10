@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": true
   },
   "com": {
+    "mokahr": true,
     "airwallex": true,
     "tupu360": true,
     "tianxun": true,
