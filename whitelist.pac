@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": true
   },
   "com": {
+    "xiaopiu": true,
     "bilivideo": true,
     "miaopai": true,
     "mokahr": true,
