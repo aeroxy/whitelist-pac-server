@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": true
   },
   "com": {
+    "myqcloud": true,
     "xiaopiu": true,
     "bilivideo": true,
     "miaopai": true,
