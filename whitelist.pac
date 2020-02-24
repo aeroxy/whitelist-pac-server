@@ -8543,6 +8543,7 @@ var white_domains = {
     "sm": true
   },
   "net": {
+    "wmwp": true,
     "ctfassets": true,
     "ourplay": true,
     "88iot": true,
