@@ -8462,6 +8462,7 @@ var white_domains = {
     "ant": true,
   },
   "edu": {
+    "tsinghua": true,
     "snai": true,
     "sxrtvu": true
   },
