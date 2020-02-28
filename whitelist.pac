@@ -9847,6 +9847,9 @@ var white_domains = {
     "pangu": true,
     "sn9": true
   },
+  "wang": {
+    "lvmh": true
+  },
   "ws": {
     "0798": true
   },
