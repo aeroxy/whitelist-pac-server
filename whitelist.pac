@@ -208,6 +208,7 @@ var white_domains = {
     "ychdzx": true
   },
   "com": {
+    "yyupload": true,
     "skyscnr": true,
     "myqcloud": true,
     "xiaopiu": true,
