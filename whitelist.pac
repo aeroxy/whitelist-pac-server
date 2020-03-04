@@ -8547,6 +8547,7 @@ var white_domains = {
     "sm": true
   },
   "net": {
+    "ctfile": true,
     "cibntv": true,
     "wmwp": true,
     "ctfassets": true,
