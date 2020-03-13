@@ -36,6 +36,7 @@ var white_domains = {
     "zhaoming": true
   },
   "cc": {
+    "cip": true,
     "lygou": true,
     "lanhoo": true,
     "0316": true,
