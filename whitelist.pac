@@ -8480,6 +8480,9 @@ var white_domains = {
   "fr": {
     "amb-chine": true
   },
+  "ga": {
+    "weimob": true
+  },
   "hk": {
     "95599": true,
     "ctrip.com": true,
