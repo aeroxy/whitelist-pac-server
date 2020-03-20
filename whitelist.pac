@@ -209,6 +209,7 @@ var white_domains = {
     "ychdzx": true
   },
   "com": {
+    "luckincoffeecdn": true,
     "luckincoffee": true,
     "weiyun": true,
     "gpsspg": true,
