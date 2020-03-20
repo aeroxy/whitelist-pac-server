@@ -9793,7 +9793,8 @@ var white_domains = {
     "iedu": true
   },
   "sh": {
-    "sge": true
+    "sge": true,
+    "now": true
   },
   "so": {
     "haorenyuan": true,
