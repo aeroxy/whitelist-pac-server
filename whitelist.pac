@@ -209,6 +209,7 @@ var white_domains = {
     "ychdzx": true
   },
   "com": {
+    "hellobike": true,
     "helloglobal": true,
     "caibeike": true,
     "luckincoffeecdn": true,
