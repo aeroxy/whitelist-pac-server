@@ -209,6 +209,7 @@ var white_domains = {
     "ychdzx": true
   },
   "com": {
+    "herokuapp": true,
     "fzdm": true,
     "hellobike": true,
     "helloglobal": true,
