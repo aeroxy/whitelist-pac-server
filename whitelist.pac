@@ -209,6 +209,8 @@ var white_domains = {
     "ychdzx": true
   },
   "com": {
+    "coolapk": true,
+    "coolapkmarket": true,
     "fzdm": true,
     "hellobike": true,
     "helloglobal": true,
