@@ -211,6 +211,7 @@ var white_domains = {
   "com": {
     "coolapk": true,
     "coolapkmarket": true,
+    "herokuapp": true,
     "fzdm": true,
     "hellobike": true,
     "helloglobal": true,
