@@ -209,6 +209,7 @@ var white_domains = {
     "ychdzx": true
   },
   "com": {
+    "sojson": true,
     "coolapk": true,
     "coolapkmarket": true,
     "herokuapp": true,
