@@ -8511,6 +8511,7 @@ var white_domains = {
     "yixin": true
   },
   "io": {
+    "dcloud": true,
     "ofcourse": true,
     "gitee": true,
     "jianshu": true,
@@ -9511,6 +9512,8 @@ var white_domains = {
     "zzrc": true
   },
   "org": {
+    "html5plus": true,
+    "remaxjs": true,
     "0513": true,
     "1000plan": true,
     "1203": true,
