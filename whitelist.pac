@@ -8514,6 +8514,7 @@ var white_domains = {
     "yixin": true
   },
   "io": {
+    "daocloud": true,
     "dcloud": true,
     "ofcourse": true,
     "gitee": true,
