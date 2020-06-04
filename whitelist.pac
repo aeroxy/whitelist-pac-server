@@ -209,6 +209,7 @@ var white_domains = {
     "ychdzx": true
   },
   "com": {
+    "tencentyun": true,
     "ksyun": true,
     "tigerfintech": true,
     "sojson": true,
