@@ -209,6 +209,8 @@ var white_domains = {
     "ychdzx": true
   },
   "com": {
+    "qiyukf": true,
+    "tencentyun": true,
     "ksyun": true,
     "tigerfintech": true,
     "sojson": true,
@@ -8510,6 +8512,7 @@ var white_domains = {
     "yixin": true
   },
   "io": {
+    "daocloud": true,
     "dcloud": true,
     "ofcourse": true,
     "gitee": true,
@@ -8547,6 +8550,7 @@ var white_domains = {
     "zimuku": true
   },
   "me": {
+    "qbox": true,
     "21me": true,
     "bole": true,
     "dzj": true,
