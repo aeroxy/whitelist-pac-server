@@ -209,6 +209,7 @@ var white_domains = {
     "ychdzx": 1
   },
   "com": {
+    "ibyteimg": 1,
     "tiktokcdn": 1,
     "qiyukf": 1,
     "tencentyun": 1,
