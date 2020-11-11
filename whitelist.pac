@@ -9885,6 +9885,9 @@ var white_domains = {
   },
   "xn--fiqs8s": {
     "": 1
+  },
+  "xyz": {
+    "aerowang": 1
   }
 };
 
