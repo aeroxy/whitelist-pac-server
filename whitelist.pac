@@ -8474,6 +8474,9 @@ var white_domains = {
     "zzyycc": 1,
     "zzz4": 1
   },
+  "cloud": {
+    "appdomain": 1
+  },
   "de": {
     "china-botschaft": 1
   },
